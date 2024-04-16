@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual é a sua flor preferida?");
 
     
-    if (respostaTime.toLowerCase() === "athlético pr") {
+    if (respostaTime.toLowerCase() === "flor") {
       alert("Isso mesmo! O Athlético PR é o melhor time!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
