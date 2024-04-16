@@ -1,4 +1,4 @@
-h1 {color: pink;
+h1 {color: #d43852;
 }
 #texto-animado {
     font-family: 'Seconds', sans-serif;
@@ -11,6 +11,8 @@ h1 {color: pink;
     left: 50%;
     transform: translate(-50%, -50%);
     animation: animacao-texto 5s infinite alternate;
+}
+body {background-color: #db556b;
 }
 
 @keyframes animacao-texto {
