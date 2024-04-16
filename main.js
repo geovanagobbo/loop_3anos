@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("Qual é a sua flor preferida?");
 
     
     if (respostaTime.toLowerCase() === "athlético pr") {
